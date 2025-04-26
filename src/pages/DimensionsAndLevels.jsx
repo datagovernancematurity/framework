@@ -598,7 +598,7 @@ const DimensionsAndLevels = () => {
       </div>
 
       <footer className="main-footer">
-        &copy; 2025 DGM2 Framework. All rights reserved.
+        &copy; 2025 DG2M Framework. All rights reserved.
       </footer>
     </div>
   );

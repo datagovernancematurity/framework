@@ -5,7 +5,7 @@ const Main = () => {
   return (
     <div className="main-page">
       <header className="main-header">
-        <h1>Data Governance Maturity Framework (DGM2)</h1>
+        <h1>Data Governance Maturity Framework (DG2M)</h1>
         <p>Guiding Organizations Toward Strategic Data Use</p>
       </header>
 
@@ -73,7 +73,7 @@ const Main = () => {
       </section>
 
       <footer className="main-footer">
-        &copy; 2025 DGM2 Framework. All rights reserved.
+        &copy; 2025 DG2M Framework. All rights reserved.
       </footer>
     </div>
   );

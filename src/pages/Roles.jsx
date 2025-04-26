@@ -5,7 +5,7 @@ const Roles = () => {
   return (
     <div className="main-page">
       <header className="main-header">
-        <h1>Key Roles in DGM2</h1>
+        <h1>Key Roles in DG2M</h1>
         <p>Understanding Responsibilities Across the Maturity Framework</p>
       </header>
 
@@ -66,7 +66,7 @@ const Roles = () => {
       </section>
 
       <footer className="main-footer">
-        &copy; 2025 DGM2 Framework. All rights reserved.
+        &copy; 2025 DG2M Framework. All rights reserved.
       </footer>
     </div>
   );

@@ -12,7 +12,7 @@ export default function App() {
     <div className="App">
       <header>
         <nav className="navbar">
-          <h1>DGM2 Framework</h1>
+          <h1>DG2M Framework</h1>
           <input type="checkbox" id="menu-toggle" />
           <label htmlFor="menu-toggle" className="menu-icon">&#9776;</label>
           <ul className="nav-links">
